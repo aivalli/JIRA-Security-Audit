@@ -5,8 +5,8 @@
 # EDIT THESE VALUES
 
 #Base url of JIRA instance to test, change this to target url
-JIRA_BASEURL='https://jira.atlassian.com'
-
+#JIRA_BASEURL='https://jira.atlassian.com'
+JIRA_BASEURL='https://CHANGE.ME'
 
 #Number of records to try and extract
 SAMPLE_SIZE=1000
